@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'rbounds': Rosenbaum sensitivity analysis for average treatment effects on the treated Use rbounds With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f rbounds.ado
+f rbounds.hlp
